@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#10151D</color>
+    <color name="surface">#1E2734</color>
+    <color name="operator">#2B3C50</color>
+    <color name="accent">#A7E8CB</color>
+    <color name="text">#F2F5FA</color>
+    <color name="muted">#9AAABD</color>
+    <color name="clear">#513B43</color>
+</resources>
